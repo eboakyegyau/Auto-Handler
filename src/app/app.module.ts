@@ -9,7 +9,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LoginComponent } from './authentication/login/login.component';
 import { SignupComponent } from './authentication/signup/signup.component';
-import { HomepageComponent } from './dealer_components/homepage/homepage.component';
+import { HomepageComponent } from './homepage/homepage.component';
 import { DealerCarListsComponent } from './dealer_components/dealer-car-lists/dealer-car-lists.component';
 import { DealerCarListComponent } from './dealer_components/dealer-car-list/dealer-car-list.component';
 import { CarListComponent } from './buyer_components/car-list/car-list.component';
